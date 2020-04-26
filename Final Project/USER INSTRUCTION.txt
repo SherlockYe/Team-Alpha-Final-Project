@@ -1,0 +1,9 @@
+Hi, there, this is a written instruction of how to open the final project of team Alpha. 
+
+1. First you have to open two terminals because there are two links that took advantages of flasks. 
+
+2. open folder python element, use terminals to run country_search_webapp and increasing_rate_webapp. You do not have to copy and paste the website, this step is just to activate those two links.
+
+3. open templates and open webpage, which is the final websites of the project.
+
+Finally, enjoy!!!

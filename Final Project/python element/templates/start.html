@@ -1,0 +1,17 @@
+{% extends "fancylayout.html" %}
+
+{% block content %}
+  <div class="jumbotron">
+    <h1>Increasing Rate Calculation</h1>
+  </div>
+  <p>Here is your word</p>
+  <form method="post" action="/increasing_rate_play">
+    Please enter the country you want to see the rate: <input type="text" name="country">
+    <br>
+    Please enter the start date: <input type="text" name="start">
+    <br>
+    Please enter the final date: <input type="text" name="final">
+    <br>
+    <input type="submit" class="btn btn-lg btn-danger">
+  </form>
+{% endblock %}
