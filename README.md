@@ -5,6 +5,6 @@ Hi, there, this is a written instruction of how to open the final project of tea
 
 2. open folder python element, use two terminals to run country_search_webapp and increasing_rate_webapp seperately. You do not have to copy and paste the website, this step is just to activate those two links.
 
-3. open templates and double click webpage.html to open the website. This is the final websites of the project.
+3. open templates and double click webpage.html to open the website. This is the final website of the project.
 
 Finally, explore the website and enjoy!!!
